@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: TutorialMod
+Specification-Vendor: Cy4
+Specification-Version: 1
+Implementation-Title: forge-1.18.1-39.0.5-mdk
+Implementation-Version: 1.0
+Implementation-Vendor: Cy4
+Implementation-Timestamp: 2023-09-22T19:46:53+0700
+
