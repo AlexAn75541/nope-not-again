@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="MIT"
+[[mods]]
+modId="tutorialmod"
+version="1.0.1"
+displayName="Mod that can call ur mum fat"
+logoFile="examplemod.png"
+credits="Aretzera is nice"
+authors="Aretzera"
+description='''
+Dit me nha m mod nay la cua t cut con me m di
+'''
+
+[[dependencies.tutorialmod]] 
+    modId="forge"
+    mandatory=true
+    versionRange="[39,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.tutorialmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.1,1.19)"
+    ordering="NONE"
+    side="BOTH"
